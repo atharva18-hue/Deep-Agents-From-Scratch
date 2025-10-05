@@ -82,38 +82,20 @@ By completing this project, one gains hands-on experience in **agent-oriented pr
 ```
  
 ---
- ## **🔧 Features**
-
- ┌─────────────────────────────────────────────┐
- │ **Task Tracking**                           │
- │ Agents manage multi-step workflows with     │
- │ structured TODO lists and status tracking.  │
- ├─────────────────────────────────────────────┤
- │ **Agent Memory**                            │
- │ Persistent virtual file system stores       │
- │ context, intermediate results, and history. │
- ├─────────────────────────────────────────────┤
- │ **Parallel Sub-Agents**                     │
- │ Sub-agents handle tasks simultaneously,     │
- │ improving efficiency and isolating context. │
- ├─────────────────────────────────────────────┤
- │ **ReAct Loops (Reason + Act)**              │
- │ Continuous observe → reason → act loops     │
- │ for intelligent decision-making.            │
- ├─────────────────────────────────────────────┤
- │ **Extensible Design**                       │
- │ Modular architecture allows adding new      │
- │ tools, workflows, or agent capabilities.    │
- ├─────────────────────────────────────────────┤
- │ **Real-World Task Simulation**              │
- │ Supports research tasks, context offloading │
- │ and multi-step decision-making.             │
- └─────────────────────────────────────────────┘
-
+> ##  Features
+>
+ | Feature                   | Description                                                                 |
+ |---------------------------|-----------------------------------------------------------------------------|
+ | **Task Tracking**          | Manage multi-step workflows with structured TODO lists and status tracking. |
+ | **Agent Memory**           | Persistent virtual file system to store context, intermediate results, and conversation history. |
+ | **Parallel Sub-Agents**    | Sub-agents handle tasks simultaneously, improving efficiency and isolating context. |
+ | **ReAct Loops (Reason + Act)** | Continuously observe, reason, and act for intelligent decision-making.   |
+ | **Extensible Design**      | Modular architecture allows adding new tools, workflows, or agent capabilities. |
+ | **Real-World Task Simulation** | Supports research-oriented tasks, context offloading, and multi-step decision-making. |
 
 ---
 
- ## **🎨 Visuals**
+ ##  Visuals
  <img width="720" height="289" alt="Agent Architecture" src="https://github.com/user-attachments/assets/90e5a7a3-7e88-4cbe-98f6-5b2581c94036" />
 
 The visuals in this project illustrate the architecture and workflow of the AI agents:

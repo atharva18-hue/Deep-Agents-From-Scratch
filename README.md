@@ -94,8 +94,27 @@ By completing this project, one gains hands-on experience in **agent-oriented pr
 
  ## **🎨 Visuals**
  <img width="720" height="289" alt="Agent Architecture" src="https://github.com/user-attachments/assets/90e5a7a3-7e88-4cbe-98f6-5b2581c94036" />
- 
- Diagram shows agent flow: **task planning → context storage → sub-agent delegation → full agent execution**
+ ## **🎨 Visuals**
+
+The visuals in this project illustrate the architecture and workflow of the AI agents:
+
+- **Agent Architecture Diagram:**  
+  This diagram shows the complete flow of the agent system:
+  1. **Task Planning:** The agent first organizes tasks into structured TODO lists and sets priorities.
+  2. **Context Storage:** Task-related data, intermediate results, and conversation context are stored in a virtual file system, enabling agent memory across sessions.
+  3. **Sub-Agent Delegation:** Complex tasks are split among specialized sub-agents. Each sub-agent handles a focused subset of tools and responsibilities, preventing confusion and task interference.
+  4. **Full Agent Execution:** The master agent orchestrates all tasks and sub-agents, combining results into a final output.
+
+- **Workflow & ReAct Loops:**  
+  Visualizations also demonstrate the **Reason-Act (ReAct) loop**, showing how agents continuously observe the state, reason about the next action, and execute tasks effectively.
+
+- **State & File Management Diagrams:**  
+  Illustrates how virtual files are created, read, and updated by agents to offload context, ensuring efficient token usage and persistent memory.
+
+- **Sub-Agent Interaction Diagrams:**  
+  Depicts how sub-agents collaborate in parallel, allowing multiple tasks to progress simultaneously without interfering with each other.
+
+These visuals help users understand **how the agent processes tasks, manages context, delegates work, and produces results** in a structured, modular, and scalable manner.
 
 ---
 

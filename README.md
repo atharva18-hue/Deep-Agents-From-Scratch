@@ -6,6 +6,8 @@
 
 ## **Project Overview**
 
+<img width="720" height="289" alt="Project Screenshot" src="https://github.com/user-attachments/assets/90e5a7a3-7e88-4cbe-98f6-5b2581c94036" />
+
 This project is a personal implementation of **advanced AI agents** built entirely from scratch. It demonstrates how to design and execute intelligent agents capable of **task planning, context management, and sub-agent delegation**. The system is inspired by modern AI research platforms and is structured to handle complex, multi-step workflows efficiently.
 
 Key objectives of this project include:
@@ -17,8 +19,6 @@ Key objectives of this project include:
 - **Extensibility:** The architecture is modular, allowing new tools or agent capabilities to be integrated easily.
 
 The project includes Jupyter notebooks that progressively build a fully functional AI agent system, starting from simple task execution to advanced research agents capable of handling real-world research workflows.
-
- <img width="720" height="289" alt="Project Screenshot" src="https://github.com/user-attachments/assets/90e5a7a3-7e88-4cbe-98f6-5b2581c94036" />
 
  Personal implementation of **advanced AI agents** for task planning, context management, and sub-agent delegation. Fully built from scratch.
 

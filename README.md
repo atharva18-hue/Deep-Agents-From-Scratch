@@ -1,37 +1,37 @@
 # 🧱 Deep Agents from Scratch
 
-> ## **Project Overview**
-> 
-> <img width="720" height="289" alt="Project Screenshot" src="https://github.com/user-attachments/assets/90e5a7a3-7e88-4cbe-98f6-5b2581c94036" />
-> 
-> Personal implementation of **advanced AI agents** for task planning, context management, and sub-agent delegation. Fully built from scratch.
+ ## **Project Overview**
+ 
+ <img width="720" height="289" alt="Project Screenshot" src="https://github.com/user-attachments/assets/90e5a7a3-7e88-4cbe-98f6-5b2581c94036" />
+
+ Personal implementation of **advanced AI agents** for task planning, context management, and sub-agent delegation. Fully built from scratch.
 
 ---
 
-> ## **🚀 Quickstart**
-> 
-> ### **Prerequisites**
-> - Python 3.11 or later
-> ```bash
-> python3 --version
-> ```
-> - [uv package manager](https://docs.astral.sh/uv/)
-> ```bash
-> curl -LsSf https://astral.sh/uv/install.sh | sh
-> export PATH="$HOME/.local/bin:$PATH"
-> ```
+ ## **🚀 Quickstart**
+
+ ### **Prerequisites**
+ - Python 3.11 or later
+ ```bash
+ python3 --version
+ ```
+ - [uv package manager](https://docs.astral.sh/uv/)
+ ```bash
+ curl -LsSf https://astral.sh/uv/install.sh | sh
+ export PATH="$HOME/.local/bin:$PATH"
+ ```
 
 ---
 
-> ## **Installation**
-> ```bash
-> # Clone this repository
-> git clone https://github.com/atharva18-hue/Deep-Agents-From-Scratch.git
-> cd Deep-Agents-From-Scratch
-> 
-> # Install dependencies
-> uv sync
-> ```
+ ## **Installation**
+ ```bash
+ # Clone this repository
+ git clone https://github.com/atharva18-hue/Deep-Agents-From-Scratch.git
+ cd Deep-Agents-From-Scratch
+ 
+ # Install dependencies
+ uv sync
+ ```
 
 ---
 

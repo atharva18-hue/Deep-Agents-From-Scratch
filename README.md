@@ -35,65 +35,56 @@
 
 ---
 
-> ## **Environment Setup**
-> ```bash
-> # Create .env file
-> touch .env
-> ```
-> Add your API keys:
-> ```env
-> TAVILY_API_KEY=your_tavily_api_key_here
-> ANTHROPIC_API_KEY=your_anthropic_api_key_here
-> LANGSMITH_API_KEY=your_langsmith_api_key_here
-> LANGSMITH_TRACING=true
-> LANGSMITH_PROJECT=deep-agents-from-scratch
-> ```
-> ⚠️ Keep `.env` private. Do not push API keys to GitHub.
+ ## **Environment Setup**
+ ```bash
+ # Create .env file
+ touch .env
+ ```
+ Add your API keys:
+ ```env
+ TAVILY_API_KEY=your_tavily_api_key_here
+ ANTHROPIC_API_KEY=your_anthropic_api_key_here
+ LANGSMITH_API_KEY=your_langsmith_api_key_here
+ LANGSMITH_TRACING=true
+ LANGSMITH_PROJECT=deep-agents-from-scratch
+ ```
+  Keep `.env` private. Do not push API keys to GitHub.
 
 ---
 
-> ## **Running Notebooks**
-> ```bash
-> # Run Jupyter notebooks
-> uv run jupyter notebook
-> 
-> # Or manually activate virtual environment
-> source .venv/bin/activate  # Windows: .venv\Scripts\activate
-> jupyter notebook
-> ```
-
+ ## **Running Notebooks**
+ ```bash
+ # Run Jupyter notebooks
+ uv run jupyter notebook
+ 
+ # Or manually activate virtual environment
+ source .venv/bin/activate
+ # Windows: .venv\Scripts\activate jupyter notebook
+```
+ 
 ---
 
-> ## **🔧 Features**
-> - **Task Tracking:** Multi-step workflow automation  
-> - **Agent Memory:** Persistent virtual file system  
-> - **Parallel Sub-Agents:** Efficient multi-task handling  
-> - **ReAct Loops:** Reason + Act framework  
-> - **Extendable Design:** Add new modules or tools easily  
+ ## **🔧 Features**
+ - **Task Tracking:** Multi-step workflow automation  
+ - **Agent Memory:** Persistent virtual file system  
+ - **Parallel Sub-Agents:** Efficient multi-task handling  
+ - **ReAct Loops:** Reason + Act framework  
+ - **Extendable Design:** Add new modules or tools easily  
 
 ---
 
 > ## **🎨 Visuals**
-> <img width="720" height="289" alt="Agent Architecture" src="https://github.com/user-attachments/assets/90e5a7a3-7e88-4cbe-98f6-5b2581c94036" />
-> 
-> Diagram shows agent flow: **task planning → context storage → sub-agent delegation → full agent execution**
+ <img width="720" height="289" alt="Agent Architecture" src="https://github.com/user-attachments/assets/90e5a7a3-7e88-4cbe-98f6-5b2581c94036" />
+ 
+ Diagram shows agent flow: **task planning → context storage → sub-agent delegation → full agent execution**
 
 ---
 
-> ## **⚡ Future Work**
-> - Real-time web API integration  
-> - Multi-agent collaboration  
-> - Advanced evaluation metrics and monitoring  
-> - Enhanced visualizations of agent decisions  
-
----
-
-> ## **📝 Author**
-> **Atharva Chavhan**  
-> 📧 Email: `8767242559@example.com`  
-> 🔗 LinkedIn: [linkedin.com/in/atharva18-hue](https://www.linkedin.com/in/atharva18-hue)  
-> 
-> Personal project fully implemented from scratch to explore AI agent design patterns and workflows.
+ ## **⚡ Future Work**
+ - Real-time web API integration  
+ - Multi-agent collaboration  
+ - Advanced evaluation metrics and monitoring  
+ - Enhanced visualizations of agent decisions  
 
 ---
 
@@ -126,6 +117,16 @@
 > ```
 
 ---
+
+
+ ## **📝 Author**
+ **Atharva Chavhan**  
+ 📧 Email: `8767242559@example.com`  
+ 🔗 LinkedIn: [linkedin.com/in/atharva18-hue](https://www.linkedin.com/in/atharva18-hue)  
+ 
+ Personal project fully implemented from scratch to explore AI agent design patterns and workflows.
+
+ ------
 
 > ## **🌟 Badges**
 > [![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)]()

@@ -160,7 +160,9 @@ Deep-Agents-From-Scratch/
  **Atharva Chavhan**  
   Email: atharvachavhan18@gmail.com  
   LinkedIn: https://www.linkedin.com/in/atharva-chavhan-b5742b259/
+  
   Github: https://github.com/atharva18-hue
+  
   contact: +91 8767242559
  
  Personal project fully implemented from scratch to explore AI agent design patterns and workflows.

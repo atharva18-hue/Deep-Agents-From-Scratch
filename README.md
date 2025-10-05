@@ -64,7 +64,6 @@ The project includes Jupyter notebooks that progressively build a fully function
  LANGSMITH_TRACING=true
  LANGSMITH_PROJECT=deep-agents-from-scratch
  ```
-  Keep `.env` private. Do not push API keys to GitHub.
 
 ---
 

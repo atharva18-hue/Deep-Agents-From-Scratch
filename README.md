@@ -11,7 +11,7 @@
 
 ---
 
-## 🧩 Project Overview
+##  Project Overview
 
 This project demonstrates the design and implementation of AI agents capable of:
 
@@ -33,10 +33,19 @@ The project is structured in **5 progressive notebooks**, each building upon the
 
 ---
 
-## 🚀 Quickstart
+##  Quickstart
 
 ### Prerequisites
 
 - Python 3.11 or later
 ```bash
 python3 --version
+
+-----
+
+uv package manager
+
+curl -LsSf https://astral.sh/uv/install.sh | sh
+# Update PATH if needed
+export PATH="$HOME/.local/bin:$PATH"
+

@@ -1,5 +1,9 @@
 # 🧱 Deep Agents from Scratch
 
+ [![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)]()
+ [![License](https://img.shields.io/badge/License-MIT-green)]()
+ [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white)]()
+
  ## **Project Overview**
  
  <img width="720" height="289" alt="Project Screenshot" src="https://github.com/user-attachments/assets/90e5a7a3-7e88-4cbe-98f6-5b2581c94036" />
@@ -73,7 +77,7 @@
 
 ---
 
-> ## **🎨 Visuals**
+ ## **🎨 Visuals**
  <img width="720" height="289" alt="Agent Architecture" src="https://github.com/user-attachments/assets/90e5a7a3-7e88-4cbe-98f6-5b2581c94036" />
  
  Diagram shows agent flow: **task planning → context storage → sub-agent delegation → full agent execution**
@@ -88,33 +92,33 @@
 
 ---
 
-> ## **📂 Repository Structure**
-> ```
-> Deep-Agents-From-Scratch/
-> │
-> ├─ notebooks/               
-> │  ├─ 0_create_agent.ipynb
-> │  ├─ 1_todo.ipynb
-> │  ├─ 2_files.ipynb
-> │  ├─ 3_subagents.ipynb
-> │  ├─ 4_full_agent.ipynb
-> │  └─ assets/               
-> │
-> ├─ src/deep_agents_from_scratch/  
-> │  ├─ __init__.py
-> │  ├─ file_tools.py
-> │  ├─ prompts.py
-> │  ├─ research_tools.py
-> │  ├─ state.py
-> │  ├─ task_tool.py
-> │  └─ todo_tools.py
-> │
-> ├─ pyproject.toml
-> ├─ uv.lock
-> ├─ .gitignore
-> ├─ LICENSE
-> └─ README.md
-> ```
+ ## **📂 Repository Structure**
+```
+Deep-Agents-From-Scratch/
+ │
+ ├─ notebooks/               
+ │  ├─ 0_create_agent.ipynb
+ │  ├─ 1_todo.ipynb
+ │  ├─ 2_files.ipynb
+ │  ├─ 3_subagents.ipynb
+ │  ├─ 4_full_agent.ipynb
+ │  └─ assets/
+ │
+ ├─ src/deep_agents_from_scratch/  
+ │  ├─ __init__.py
+ │  ├─ file_tools.py
+ │  ├─ prompts.py
+ │  ├─ research_tools.py
+ │  ├─ state.py
+ │  ├─ task_tool.py
+ │  └─ todo_tools.py
+ │
+ ├─ pyproject.toml
+ ├─ uv.lock
+ ├─ .gitignore
+ ├─ LICENSE
+ └─ README.md
+ ```
 
 ---
 
@@ -127,8 +131,3 @@
  Personal project fully implemented from scratch to explore AI agent design patterns and workflows.
 
  ------
-
-> ## **🌟 Badges**
-> [![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)]()
-> [![License](https://img.shields.io/badge/License-MIT-green)]()
-> [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white)]()

@@ -4,7 +4,22 @@
  [![License](https://img.shields.io/badge/License-MIT-green)]()
  [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white)]()
 
- ## **Project Overview**
+## **Project Overview**
+
+This project is a personal implementation of **advanced AI agents** built entirely from scratch. It demonstrates how to design and execute intelligent agents capable of **task planning, context management, and sub-agent delegation**. The system is inspired by modern AI research platforms and is structured to handle complex, multi-step workflows efficiently.
+
+Key objectives of this project include:
+
+- **Task Planning:** Agents can organize tasks into structured TODO lists, track progress, and manage multi-step workflows autonomously.
+- **Context Management:** Agents maintain persistent state through a virtual file system, allowing them to remember information across tasks and sessions.
+- **Sub-Agent Delegation:** Tasks can be split across multiple specialized sub-agents, ensuring efficient parallel execution and context isolation.
+- **ReAct Loops:** The agents implement a Reason-Act loop framework, which forms the foundation for decision-making and problem-solving.
+- **Extensibility:** The architecture is modular, allowing new tools or agent capabilities to be integrated easily.
+
+The project includes Jupyter notebooks that progressively build a fully functional AI agent system, starting from simple task execution to advanced research agents capable of handling real-world research workflows.
+
+By completing this project, one gains hands-on experience in **agent-oriented programming**, AI workflow management, and designing scalable intelligent systems.
+
  
  <img width="720" height="289" alt="Project Screenshot" src="https://github.com/user-attachments/assets/90e5a7a3-7e88-4cbe-98f6-5b2581c94036" />
 

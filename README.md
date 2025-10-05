@@ -82,13 +82,34 @@ By completing this project, one gains hands-on experience in **agent-oriented pr
 ```
  
 ---
-
  ## **🔧 Features**
- - **Task Tracking:** Multi-step workflow automation  
- - **Agent Memory:** Persistent virtual file system  
- - **Parallel Sub-Agents:** Efficient multi-task handling  
- - **ReAct Loops:** Reason + Act framework  
- - **Extendable Design:** Add new modules or tools easily  
+
+ ┌─────────────────────────────────────────────┐
+ │ **Task Tracking**                           │
+ │ Agents manage multi-step workflows with     │
+ │ structured TODO lists and status tracking.  │
+ ├─────────────────────────────────────────────┤
+ │ **Agent Memory**                            │
+ │ Persistent virtual file system stores       │
+ │ context, intermediate results, and history. │
+ ├─────────────────────────────────────────────┤
+ │ **Parallel Sub-Agents**                     │
+ │ Sub-agents handle tasks simultaneously,     │
+ │ improving efficiency and isolating context. │
+ ├─────────────────────────────────────────────┤
+ │ **ReAct Loops (Reason + Act)**              │
+ │ Continuous observe → reason → act loops     │
+ │ for intelligent decision-making.            │
+ ├─────────────────────────────────────────────┤
+ │ **Extensible Design**                       │
+ │ Modular architecture allows adding new      │
+ │ tools, workflows, or agent capabilities.    │
+ ├─────────────────────────────────────────────┤
+ │ **Real-World Task Simulation**              │
+ │ Supports research tasks, context offloading │
+ │ and multi-step decision-making.             │
+ └─────────────────────────────────────────────┘
+
 
 ---
 

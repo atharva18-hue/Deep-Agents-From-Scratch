@@ -1,4 +1,4 @@
-# 🧱 Deep Agents from Scratch
+#  Deep Agents from Scratch
 
  [![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)]()
  [![License](https://img.shields.io/badge/License-MIT-green)]()

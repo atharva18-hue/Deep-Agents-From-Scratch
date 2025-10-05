@@ -18,9 +18,6 @@ Key objectives of this project include:
 
 The project includes Jupyter notebooks that progressively build a fully functional AI agent system, starting from simple task execution to advanced research agents capable of handling real-world research workflows.
 
-By completing this project, one gains hands-on experience in **agent-oriented programming**, AI workflow management, and designing scalable intelligent systems.
-
- 
  <img width="720" height="289" alt="Project Screenshot" src="https://github.com/user-attachments/assets/90e5a7a3-7e88-4cbe-98f6-5b2581c94036" />
 
  Personal implementation of **advanced AI agents** for task planning, context management, and sub-agent delegation. Fully built from scratch.
@@ -82,8 +79,8 @@ By completing this project, one gains hands-on experience in **agent-oriented pr
 ```
  
 ---
-> ##  Features
->
+ ##  Features
+
  | Feature                   | Description                                                                 |
  |---------------------------|-----------------------------------------------------------------------------|
  | **Task Tracking**          | Manage multi-step workflows with structured TODO lists and status tracking. |
@@ -159,10 +156,13 @@ Deep-Agents-From-Scratch/
 ---
 
 
- ## **📝 Author**
+ ##  Author
+ 
  **Atharva Chavhan**  
- 📧 Email: `8767242559@example.com`  
- 🔗 LinkedIn: [linkedin.com/in/atharva18-hue](https://www.linkedin.com/in/atharva18-hue)  
+  Email: atharvachavhan18@gmail.com  
+  LinkedIn: https://www.linkedin.com/in/atharva-chavhan-b5742b259/
+  Github: https://github.com/atharva18-hue
+  contact: +91 8767242559
  
  Personal project fully implemented from scratch to explore AI agent design patterns and workflows.
 

@@ -1,8 +1,6 @@
 #  Deep Agents from Scratch
 
- [![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)]()
- [![License](https://img.shields.io/badge/License-MIT-green)]()
- [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white)]()
+ 
 
 ## **Project Overview**
 
@@ -24,7 +22,7 @@ The project includes Jupyter notebooks that progressively build a fully function
 
 ---
 
- ## **🚀 Quickstart**
+ ## ** Quickstart**
 
  ### **Prerequisites**
  - Python 3.11 or later
@@ -116,7 +114,7 @@ These visuals help users understand **how the agent processes tasks, manages con
 
 ---
 
- ## **⚡ Future Work**
+ ## ** Future Work**
  - Real-time web API integration  
  - Multi-agent collaboration  
  - Advanced evaluation metrics and monitoring  
@@ -124,7 +122,7 @@ These visuals help users understand **how the agent processes tasks, manages con
 
 ---
 
- ## **📂 Repository Structure**
+ ## ** Repository Structure**
 ```
 Deep-Agents-From-Scratch/
  │

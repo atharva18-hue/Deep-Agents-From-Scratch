@@ -10,7 +10,7 @@ This project is a personal implementation of **advanced AI agents** built entire
 
 Key objectives of this project include:
 
-- **Task Planning:** Agents can organize tasks into structured TODO lists, track progress, and manage multi-step workflows autonomously.
+- **Task Planning:** Agents can organize tasks into structured TODO lists, track progress, and manage multi-step workflows autonomously
 - **Context Management:** Agents maintain persistent state through a virtual file system, allowing them to remember information across tasks and sessions.
 - **Sub-Agent Delegation:** Tasks can be split across multiple specialized sub-agents, ensuring efficient parallel execution and context isolation.
 - **ReAct Loops:** The agents implement a Reason-Act loop framework, which forms the foundation for decision-making and problem-solving.
